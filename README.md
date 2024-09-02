@@ -1,0 +1,1 @@
+Página para inclusão de tarefas para serem feitas ao longo do dia e quando clicado em conclusão da tarefa a mesma é apagada.
